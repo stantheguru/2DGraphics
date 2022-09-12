@@ -1,1 +1,1 @@
-2D graphics project
+2D graphics project to Draw the Kenyatta University Main Gate
